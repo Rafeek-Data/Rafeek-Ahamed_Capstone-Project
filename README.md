@@ -1,5 +1,6 @@
-# Rafeek-Ahamed_Capstone-Project
-Singapore HDB Resale Flats Analytics - Data Dictionary
+# Prepared By: Rafeek Ahamed
+Dataset Used: Product Sales
+
 # Electronics Retail Sales Dataset 📊
 
 <p align="center">
