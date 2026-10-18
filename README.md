@@ -18,14 +18,15 @@ It serves as an excellent resource for exploratory data analysis (EDA), sales pe
 
 
 1.	Regional Sales Performance & Geographic Market Analysis
+   
 	>> Evaluate total revenue, transaction volume, and average order value across different geographic regions (Region) to identify high-performing markets and underperforming zones.
-2.	Impact of Discount Strategies on Net Revenue and Volume
+3.	Impact of Discount Strategies on Net Revenue and Volume
 	>> Investigate the relationship between Discount percentages and the resulting Quantity sold versus total net Sales to determine whether discounting successfully stimulates demand or negatively impacts revenue margins.
-3.	Product Demand and Revenue Concentration Analysis
+4.	Product Demand and Revenue Concentration Analysis
 	>> Identify which specific Product lines dominate total revenue generation and sales volume to pinpoint core revenue drivers versus low-performing inventory
-4.	Salesperson Productivity and Performance Benchmarking
+5.	Salesperson Productivity and Performance Benchmarking
 	>> Assess individual sales representatives (Salesperson) based on total sales generated, transaction frequency, and average order size to establish performance benchmarks
-5.	Temporal Sales Trends and Demand Seasonality
+6.	Temporal Sales Trends and Demand Seasonality
 	>> Examine periodic and monthly variations in sales transactions over time (Date) to detect peak purchasing windows and seasonal demand fluctuations.
 ## 📋 Dataset Overview
 
