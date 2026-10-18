@@ -1,5 +1,5 @@
-# Prepared By: Rafeek Ahamed #
-# Dataset Used: Product Sales #
+## Prepared By: Rafeek Ahamed ##
+## Dataset Used: Product Sales ##
 
 # Electronics Retail Sales Dataset 📊
 
