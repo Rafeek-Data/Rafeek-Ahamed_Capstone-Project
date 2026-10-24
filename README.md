@@ -5,9 +5,6 @@
 <img width="825" height="550" alt="image" src="https://github.com/user-attachments/assets/527faf17-08bb-462b-99c3-ab3f6c336ab3" />
 </p>
 
-<img width="970" height="602" alt="image" src="https://github.com/user-attachments/assets/b2dc6990-c772-44cb-a2f0-ec25c5ebb187" />
-
-
 
 
 <h1 align="center">Singapore HDB Resale Market Analysis to Improve Sales Performance
@@ -16,7 +13,8 @@ This repository contains a transactional dataset of HDB resale flat sales in Sin
 
 The data is a good resource for exploratory data analysis (EDA), price trend analysis, regional market comparison, and property price prediction with models such as Linear Regression and Random Forest. It also suits data cleaning practice, because the files have a missing header in one copy, remaining lease in different formats, duplicate rows and extreme outliers. A final use is flagging flats that sold below their predicted market value.
 
-#<img width="1317" height="742" alt="image" src="https://github.com/user-attachments/assets/fd2d0b2f-b7d0-4953-8c8b-868132c2485a" />
+<img width="970" height="602" alt="image" src="https://github.com/user-attachments/assets/b2dc6990-c772-44cb-a2f0-ec25c5ebb187" />
+
 
 
 5 Project Objectives
