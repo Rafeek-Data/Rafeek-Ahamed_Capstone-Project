@@ -2,9 +2,8 @@
 * **Project Title: Singapore HDB Resale Market Analysis to Improve Sales Performance**
 
 <p align="center">
-<img width="825" height="550" alt="image" src="https://github.com/user-attachments/assets/527faf17-08bb-462b-99c3-ab3f6c336ab3" />
+<img width="1264" height="843" alt="image" src="https://github.com/user-attachments/assets/4f3f5c5c-af16-42f1-8f9c-74d46b66ce0d" />
 </p>
-
 
 
 <h1 align="center">Singapore HDB Resale Market Analysis to Improve Sales Performance
