@@ -28,6 +28,10 @@ The data is an excellent resource for:
 
 ## 🎯 Project Objectives & Key Findings
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fceaa91c-815f-4541-ab43-dd1b95dcb003" />
+
+
+
 ### 1. Analyse Historical Property Price Trends
 * **Finding:** The median resale price rose from about S$239,000 in 2000 to S$550,000 in 2023, up **130%**. Prices fell from a 2013 peak of S$455,000 to S$400,000 in 2019, before rebounding by **38% through 2023**.
 
@@ -54,7 +58,7 @@ The data is an excellent resource for:
 ## 📋 Dataset Overview
 
 * **File Name:** `hdb_resale_clean.csv`
-* **Time Horizon:** 2000 – 2017
+* **Time Horizon:** 2000 – 2024
 * **Target Category:** Resale flats
 * **Key Entities:** Products, Sales Team, Regional Markets, Revenue Metrics
 
