@@ -21,7 +21,9 @@ The data is an excellent resource for:
 * **Identifying undervalued opportunities**, specifically flagging flats sold below their predicted market value.
 
 <p align="center">
-<img width="970" height="602" alt="Market Trend Analysis" src="https://github.com/user-attachments/assets/b2dc6990-c772-44cb-a2f0-ec25c5ebb187" />
+<img width="1247" height="678" alt="image" src="https://github.com/user-attachments/assets/1b49b0d0-576e-4854-be3a-d716ff1e7e0f" />
+
+
 </p>
 
 ---
