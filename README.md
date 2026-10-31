@@ -3,8 +3,7 @@
 * **Prepared By:** Rafeek Ahamed
 * **Project Title:** Singapore HDB Resale Market Analysis to Improve Sales Performance
 * **Google Colab Notebook:** [View Jupyter Notebook](https://colab.research.google.com/drive/1Xb8K_tEherJ-0tqqgWMoK7jebAOUNs_I#scrollTo=QGMKX71DsLUe)
-* **Streamlit:** [https://noxious-corpse-5v5r6jvpwpjvcvx95-8501.app.github.dev/](https://rafeek-ahamedcapstone-project-007.streamlit.app/)
-
+* **Streamlit:** https://rafeek-ahamedcapstone-project-007.streamlit.app/
 ---
 
 <p align="center">
